@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 <img width="200" alt="Image" src="https://github.com/user-attachments/assets/8b617791-cd37-4a5a-8695-a7c9018b7c70" />
 <br>
@@ -133,3 +134,7 @@ Withdrawals are powered by [Coinbase](https://www.coinbase.com/en-es/developer-p
 2. Create a Server API Key
 3. Add the `NEXT_PUBLIC_COINBASE_APP_ID`, `COINBASE_API_KEY_ID`, and `API_KEY_SECRET` to the `.env` file.
 4. In the [Onramp configuration](https://portal.cdp.coinbase.com/products/onramp) add your domain to the domain allowlist
+=======
+# Glocal-finance
+Glocal fi - Integrate all your Finances. Replace multiple disconnected manual financial operations with a multi-currency account Smart Payouts, Anytime, Anywhere Accept payments easily worldwide and get fast access to your fund
+>>>>>>> 34201355084236dd7e581bd2ab6fded0a04edd94

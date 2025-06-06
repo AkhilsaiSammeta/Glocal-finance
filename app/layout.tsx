@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Fintech Starter App",
+  title: "Glocal finance",
   description: "Create your own Fintech app in minutes using Crossmint",
 };
 
